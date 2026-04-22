@@ -81,7 +81,6 @@ console.log("g<h",g<h);
 console.log("g<=h",g<=h);
 
 //logical operator
-
 let k=1;
 let l=3;
 let cond1 = k<l; //true
